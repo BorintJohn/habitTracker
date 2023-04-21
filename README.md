@@ -11,6 +11,6 @@ HOW TO RUN THIS?
 - to run this your will need any java IDE on your computer
 - open the programe file with your IDE
 - find ht/src/main/java/habittracker
-- and run main.java
+- and run App.java
 
 --- more methods is comming up soon.
