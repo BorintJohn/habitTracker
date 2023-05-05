@@ -14,3 +14,10 @@ HOW TO RUN THIS?
 - and run App.java
 
 --- more methods is comming up soon.
+
+MORE INFO
+Project Features Explaination
+Document Version
+https://docs.google.com/document/d/12bR-vXDwevWsQd7WzZdY1dVVguvv8SMpzv8Ndu5R-VQ/edit?usp=sharing
+Video Version
+https://youtu.be/foBcxXHFzlo
