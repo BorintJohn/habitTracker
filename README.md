@@ -21,4 +21,6 @@ Project Features Explaination
 
 Document Version: https://docs.google.com/document/d/12bR-vXDwevWsQd7WzZdY1dVVguvv8SMpzv8Ndu5R-VQ/edit?usp=sharing
 
+NOTE: Document Version is for user with Document only, as you can download the code, you don't need to do Set environment and files steps.
+
 Video Version: https://youtu.be/foBcxXHFzlo
